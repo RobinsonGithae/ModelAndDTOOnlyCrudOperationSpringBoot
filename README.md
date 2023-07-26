@@ -17,6 +17,8 @@ Update a topic using ID
 Delete with ID
 ![Screenshot (3379)](https://github.com/RobinsonGithae/ModelAndDTOOnlyCrudOperationSpringBoot/assets/44303544/218deb3b-2138-4f03-ad2b-db556811ac85)
 Delete all topics
+![Screenshot (3382)](https://github.com/RobinsonGithae/ModelAndDTOOnlyCrudOperationSpringBoot/assets/44303544/546aee7b-f52e-4967-b386-4e5dea956469)
+
 
 Read all topics after deleting all topics
 ![Screenshot (3381)](https://github.com/RobinsonGithae/ModelAndDTOOnlyCrudOperationSpringBoot/assets/44303544/f1672dd0-b516-48d0-9e38-8abbea794b73)
